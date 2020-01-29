@@ -1,5 +1,5 @@
 # React Native App
-<h2> Installation dependancies </h2> <br />
+<h2> Installation dependencies </h2> <br />
 1. Node <br />
 2. Java Development Kit (JDK) <br />
 3. Android studio <br />
